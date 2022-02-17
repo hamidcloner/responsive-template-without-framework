@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Vazir-Medium;
+    src: url(../fonts/Vazir-Medium.eot) format('eot'),
+        url(../fonts/Vazir-Medium.woff) format('woff'),
+        url(../fonts/Vazir-Medium.woff2) format('woff2');
+    font-weight: 700;    
+    font-style: normal;
+
+}
+
+/* contact section styles */
+.container-fluid-custom {
+    background-color: blue;
+    color: #fff;
+}
+.container-fluid-custom .contact {
+    font-size: 15px;
+}
+.container-fluid-custom .contact i {
+    color: orange;
+}
+.container-fluid-custom .contact i span {
+    color: white;
+}
