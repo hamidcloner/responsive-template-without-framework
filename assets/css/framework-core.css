@@ -10,7 +10,7 @@ body{
 }
 a{
     text-decoration: none;
-    color: #fff;
+    /* color: #fff; */
 }
 ul{
     list-style: none;
